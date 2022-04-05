@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_4984" data-name="Group 4984" transform="translate(-12 -53)">
+    <circle id="Ellipse_4239" data-name="Ellipse 4239" cx="25" cy="25" r="25" transform="translate(12 53)" fill="#fff" opacity="0.29"/>
+    <circle id="Ellipse_4238" data-name="Ellipse 4238" cx="18.5" cy="18.5" r="18.5" transform="translate(18 60)" fill="#fff"/>
+    <path id="calendar" d="M14.875,2.125h-.708V.708A.709.709,0,0,0,13.458,0H12.75a.709.709,0,0,0-.708.708V2.125H4.958V.708A.709.709,0,0,0,4.25,0H3.542a.709.709,0,0,0-.708.708V2.125H2.125A2.128,2.128,0,0,0,0,4.25V14.875A2.128,2.128,0,0,0,2.125,17h12.75A2.128,2.128,0,0,0,17,14.875V4.25a2.128,2.128,0,0,0-2.125-2.125Zm.708,12.75a.709.709,0,0,1-.708.708H2.125a.709.709,0,0,1-.708-.708V7.112H15.583Zm0,0" transform="translate(28 69)" fill="#2c99c6"/>
+    <circle id="Ellipse_4241" data-name="Ellipse 4241" cx="4.5" cy="4.5" r="4.5" transform="translate(41 69)" fill="#ff7d7d"/>
+  </g>
+</svg>

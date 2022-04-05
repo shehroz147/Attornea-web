@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_1976" data-name="Group 1976" transform="translate(-320.04 -286)">
+    <circle id="Ellipse_4182" data-name="Ellipse 4182" cx="12" cy="12" r="12" transform="translate(320.04 286)" fill="#65c51f"/>
+    <path id="correct" d="M3.895,8.151a.519.519,0,0,1-.734,0L.228,5.219a.779.779,0,0,1,0-1.1L.6,3.75a.779.779,0,0,1,1.1,0L3.527,5.581,8.474.634a.779.779,0,0,1,1.1,0L9.942,1a.779.779,0,0,1,0,1.1Zm0,0" transform="translate(326.472 293.809)" fill="#fff"/>
+  </g>
+</svg>
